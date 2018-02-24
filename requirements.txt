@@ -7,3 +7,6 @@ Sphinx==1.6.5
 sphinxcontrib-websupport==1.0.1
 websocket-client==0.18.0
 whitenoise==3.3.1
+python-decouple==3.1
+dj-database-url==0.4.2
+
