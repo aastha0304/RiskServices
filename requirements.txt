@@ -1,7 +1,7 @@
 Django==1.11.10
 django-filter==1.1.0
 djangorestframework==3.7.7
-psycopg2==2.7.4
+psycopg2-binary==2.7.4
 pyOpenSSL==17.2.0
 Sphinx==1.6.5
 sphinxcontrib-websupport==1.0.1
@@ -9,4 +9,3 @@ websocket-client==0.18.0
 whitenoise==3.3.1
 python-decouple==3.1
 dj-database-url==0.4.2
-
