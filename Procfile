@@ -1,1 +1,1 @@
-web: gunicorn riak_as_a_service.wsgi --log-file -
+web: gunicorn risk_as_a_service.wsgi --log-file -
